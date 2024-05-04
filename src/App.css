@@ -18,3 +18,7 @@
   box-shadow: 8px 10px 17px -7px #000000;
   background-color: #4b85f04f;
 }
+
+.title {
+  letter-spacing: 12px;
+}
