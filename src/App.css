@@ -1,9 +1,11 @@
 * {
   box-sizing: border-box;
 }
+body {
+  background-color: #103e93;
+}
 .searchContainer {
   height: 100vh;
-  background-color: #103e93;
 }
 
 .big-temperature {
